@@ -1,0 +1,97 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": true,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "preview",
+          "name": "preview",
+          "type": "string"
+        },
+        {
+          "title": "draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string"
+        },
+        {
+          "title": "authors",
+          "name": "authors",
+          "type": "choice",
+          "choices": [
+            "薛沐儀",
+            "馮嬿臻"
+          ]
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "content",
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "Projects",
+      "path": "[[workspace]]/content/project"
+    },
+    {
+      "title": "News",
+      "path": "[[workspace]]/content/post",
+      "previewPath": ""
+    },
+    {
+      "title": "Events",
+      "path": "[[workspace]]/content/event"
+    },
+    {
+      "title": "Preprints",
+      "path": "[[workspace]]/content/publication/preprint"
+    },
+    {
+      "title": "Journals articles",
+      "path": "[[workspace]]/content/publication/journal-article"
+    },
+    {
+      "title": "Conference papers",
+      "path": "[[workspace]]/content/publication/conference-paper"
+    },
+    {
+      "title": "People",
+      "path": "[[workspace]]/content/people"
+    },
+  ],
+  "frontMatter.git.enabled": true
+  //"frontMatter.framework.startCommand": "hugo server -D --disableFastRender --navigateToChanged --bind 0.0.0.0"
+}
