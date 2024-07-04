@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-    - course: Bachelor in Public Health
+    - course: Institute of epidemiology and preventive medicine
       institution: National Taiwan University
       year: 2024
 
