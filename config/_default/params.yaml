@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'Fenglab'
+    description: 'Feng Lab'
     #twitter: 'twitter handle'
   analytics:
     google_analytics: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Fenglab. Created and maintained by Mu-Yi Shih.'
+    notice: '© {year} Feng Lab. Created and maintained by Mu-Yi Shih.'
     license:
       enable: false
       allow_derivatives: false

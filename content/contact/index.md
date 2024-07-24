@@ -9,23 +9,23 @@ sections:
     content:
       title: Contact us
       text: |-
-        Welcome to visit us.
+        Welcome to visit us!
       email: ajfeng@ntu.edu.tw
       phone: +886 2 33668020
       address:
-        street: No.17, Xu-Zhou Rd.
-        city: Taipei
-        region: Zhongzheng District
-        postcode: '10055'
+        street: Institute of Health Data Analytics and Statistics, National Taiwan University
+        city: 
+        region: 
+        postcode: ''
         country: Taiwan
         country_code: TW
       coordinates:
         latitude: '25.04140882409387'
         longitude: '121.5228980166534'
-      directions: Enter Building take elevator to Office 501 on 5th floor
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      directions: Rm. 520, No. 17, Xuzhou Rd., Zhongzheng District, Taipei 100, Taiwan
+      #office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
       # appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments

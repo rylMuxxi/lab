@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anne Feng 馮嬿臻
+title: Yen-Cheng Anne Feng 馮嬿臻
 
 # Full Name (for SEO)
 first_name: Anne
@@ -10,11 +10,11 @@ last_name: Feng
 superuser: true
 
 # Role/position
-role: Professor of Public Health
+role: Assistant Professor 
 
 # Organizations/Affiliations
 organizations:
-  - name: National Taiwan University
+  - name: Institute of Health Data Analytics and Statistics, National Taiwan University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -71,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Principal Investigator
 ---
 
 2022 Yushan Young Scholar, Ministry of Education, Taiwan Vertex Fellow, Innovation programs, Vertex Pharmaceuticals Early Career Investigator (EICP) Poster award at the World Congress of Psychiatric Genetics (WCPG) Program in Quantitative Genomics (PQG) Student/Postdoc Travel Fund, Harvard T.H. Chan School of Public Health Reviewers choice award at the American Society of Human Genetics (ASHG) Harvard Chan School scholarship Studying Abroad Scholarship, Ministry of Education, Taiwan Member of the Phi Tau Phi Scholastic Honor Society of Taiwan College Presidential awards
