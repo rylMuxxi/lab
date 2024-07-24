@@ -3,6 +3,7 @@ title: Important lab meeting
 date: 2024-06-30
 image:
   focal_point: 'bottom'
+reading_time: false
 ---
 
 This is a notice for an important labmeeting that everyone has to attend

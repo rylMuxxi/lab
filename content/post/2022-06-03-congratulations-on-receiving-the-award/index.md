@@ -1,6 +1,7 @@
 ---
 title: Congratulations on receiving The Award!
 date: 2022-06-03
+reading_time: false
 ---
 
 today's news.

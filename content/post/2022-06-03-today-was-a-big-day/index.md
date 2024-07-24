@@ -9,6 +9,7 @@ type: post
 authors:
     - 薛沐儀
     - 馮嬿臻
+reading_time: false
 ---
 
 news of the day.
