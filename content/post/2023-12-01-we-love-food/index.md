@@ -2,7 +2,7 @@
 title: We love food
 date: 2023-11-17
 authors:
-    - 薛沐儀****
+    - 薛沐儀
 ---
 
 Congratulations to Fenglab for having nice food.
