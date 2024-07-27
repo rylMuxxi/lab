@@ -91,14 +91,14 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: Fenglab
+    provider: wowchemy
     algolia:
       app_id: ''
       api_key: ''
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+    provider: 'mapbox'
     api_key: ''
     zoom: 15
 
