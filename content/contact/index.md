@@ -66,4 +66,9 @@ sections:
   #     spacing:
   #       padding: ['20px', '0', '20px', '0']
   #     css_class: fullscreen
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text: Visit us! ![title](hdas_logo.jpg) ![title](ntu_logo.jpg) 
 ---
