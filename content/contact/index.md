@@ -70,5 +70,5 @@ sections:
     content:
       title:
       subtitle: ''
-      text: </pre> ![title](hdas_logo.jpg) ![title](ntu_logo.jpg)
+      text: </pre>  ![title](hdas_logo.jpg) ![title](ntu_logo.jpg)
 ---
